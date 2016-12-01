@@ -8,7 +8,7 @@ Felipe Lacerda de Oliveira
 
 ## Qual meu sonho na carreira?
  
-Me tornar um grande desenvolver, para contribuir palestrando, escrevendo artigos, etc.
+Me tornar um grande desenvolvedor, para contribuir palestrando, escrevendo artigos, etc.
 
 ## Meus conhecimentos?
  
